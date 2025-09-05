@@ -113,9 +113,7 @@ jupyter notebook notebooks/fraud_detection.ipynb
 ```
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
-```
+## Contact
+**Pratik Sindhiya**  
+Email: [pratiksindhiya3@gmail.com](mailto:pratiksindhiya3@gmail.com)  
+Feel free to reach out for any queries regarding this project.
