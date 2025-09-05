@@ -64,25 +64,6 @@ The project successfully identified the most effective machine learning models f
 
 ---
 
-## Project Structure
-```
-
-credit-card-fraud-detection/
-├── data/
-│   └── creditcard.csv
-├── notebooks/
-│   └── fraud\_detection.ipynb
-├── src/
-│   ├── data\_preprocessing.py
-│   ├── model\_training.py
-│   └── evaluation.py
-├── requirements.txt
-└── README.md
-
-````
-
----
-
 ## Requirements
 - Python 3.x  
 - pandas  
