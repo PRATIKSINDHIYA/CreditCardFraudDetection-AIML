@@ -97,7 +97,7 @@ credit-card-fraud-detection/
 1. Clone the repository:
 ```bash
 git clone https://github.com/PRATIKSINDHIYA/
-cd credit-card-fraud-detection
+cd CreditCardFraudDetection-AIML
 ````
 
 2. Install dependencies:
